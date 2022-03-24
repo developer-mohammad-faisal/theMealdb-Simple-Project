@@ -1,0 +1,11 @@
+.card-style{
+  text-align: center;
+  border-radius: 10px;
+  }
+.card-style img {
+  margin-top: 7px;
+  border-radius: 10px;
+}
+.name{
+  color: brown;
+}

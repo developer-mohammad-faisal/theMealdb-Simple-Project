@@ -1,0 +1,10 @@
+.details{
+  text-align: center;
+  position: sticky;
+  top: 0;
+}
+.details img {
+  width: 205px;
+  height: 160px;
+  border-radius: 15px;
+}
